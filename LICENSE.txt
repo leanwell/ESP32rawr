@@ -1,4 +1,4 @@
-Copyright (c) 2024 Linwel Colmo. All rights reserved.
+Copyright (c) 2025 Linwel Colmo. All rights reserved.
 
 This firmware is provided in binary format only. 
 Users may install and use the provided binary files, 
