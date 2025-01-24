@@ -1,0 +1,7 @@
+Copyright (c) 2024 Linwel Colmo. All rights reserved.
+
+This firmware is provided in binary format only. 
+Users may install and use the provided binary files, 
+but may not modify, distribute, or reverse engineer them.
+
+The source code remains proprietary and is not publicly available.
